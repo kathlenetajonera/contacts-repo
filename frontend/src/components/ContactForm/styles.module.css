@@ -1,0 +1,23 @@
+.form {
+    margin-top: 24px;
+    width: 100%;
+}
+
+.inputWrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.inputWrapper label {
+    flex-basis: 100px;
+}
+
+.inputWrapper input {
+    flex: 1;
+}
+
+.button {
+    width: 100%;
+    margin-top: 16px;
+}
